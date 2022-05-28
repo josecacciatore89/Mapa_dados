@@ -1,0 +1,8933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5593028430492,
+          -30.1909799700534
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.0928480418387,
+          -29.7592451055026
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.7962685430434,
+          -29.777327388507
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.5386862241734,
+          -29.1262542911809
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0683587926722,
+          -29.1320847965301
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4872517595363,
+          -29.5752032030684
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1277039296697,
+          -29.5538246834547
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8322916586441,
+          -29.4119490532912
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8653311889562,
+          -29.1806723411067
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8361786622103,
+          -29.8725589758771
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0061667356142,
+          -28.6364918418491
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2345965277382,
+          -28.7939154862772
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9119752317497,
+          -28.7181189167377
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1549129546326,
+          -29.034909707377
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2326530259551,
+          -28.5043337206008
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.6349578950491,
+          -28.1836559263954
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.2676360580502,
+          -28.171994915697
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0480203565641,
+          -28.2186389584905
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0246983351674,
+          -28.1272943746866
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9605627763263,
+          -28.4032716278815
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.19766999386,
+          -28.0359497908826
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1393649403681,
+          -27.9018481678513
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9741672888077,
+          -28.0301192855334
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8769921996546,
+          -28.1156333639882
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8303481568611,
+          -28.1175768657712
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8342351604272,
+          -27.987362246306
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.0091503209029,
+          -27.8474301179255
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6884725266975,
+          -28.0340062890995
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7506645837555,
+          -27.9387747017295
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6554329963854,
+          -27.8241080965288
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4746873305606,
+          -27.8610346304069
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4746873305606,
+          -27.7541420323385
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3444727110953,
+          -28.0281757837504
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5465968965339,
+          -28.018458274835
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5524274018831,
+          -28.1467293925172
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4552523127299,
+          -28.1214638693374
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6165629607242,
+          -28.2477914852365
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6340544767717,
+          -28.2808310155485
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8148001425966,
+          -28.2439044816703
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.735116569491,
+          -28.1428423889511
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.5504839001,
+          -28.5451472580451
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.8944837157022,
+          -27.7347070145079
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4921788466081,
+          -28.3391360690404
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2647891379898,
+          -28.3605145886541
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2589586326406,
+          -28.2983225315961
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1889925684503,
+          -27.8435431143594
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2317496076777,
+          -27.771633548386
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1462355292229,
+          -28.512107727733
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9829813794456,
+          -28.5179382330822
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0665519561173,
+          -28.3760626029186
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0101904044085,
+          -28.2419609798873
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9343938348691,
+          -27.9193396838988
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0121339061916,
+          -27.8649216339731
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0587779489851,
+          -27.8299386018779
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.932450333086,
+          -27.7910685662167
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7750266886579,
+          -27.8474301179255
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7031171226846,
+          -28.0651023176286
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7711396850918,
+          -28.232243470972
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7730831868748,
+          -28.3488535779557
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9071848099062,
+          -28.3916106171831
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6584165816741,
+          -28.4207631439291
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8119532225361,
+          -28.5704127812249
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6039985317484,
+          -28.6442658489813
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1209700060431,
+          -28.6326048382829
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7603820926708,
+          -27.645305932487
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6593199999515,
+          -27.5695093629475
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4980093519573,
+          -27.5675658611644
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3561337217937,
+          -27.4995432987572
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4397042984654,
+          -27.6491929360531
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.303659173651,
+          -27.6278144164394
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0976479846463,
+          -27.4898257898419
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.087930475731,
+          -27.3907071989057
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9305068313029,
+          -27.4548427577468
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8741452795941,
+          -27.5345263308524
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9713203687473,
+          -27.5597918540322
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1054219917786,
+          -27.5986618896934
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1093089953447,
+          -27.6647409503176
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1248570096092,
+          -27.7211025020264
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9616028598319,
+          -27.707497989545
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9460548455674,
+          -27.6336449217886
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8041792154038,
+          -27.6744584592329
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6992301191184,
+          -27.7172154984603
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7361566529966,
+          -27.6200404093071
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6972866173354,
+          -27.4975997969742
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6331510584943,
+          -27.6608539467515
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9907553865779,
+          -27.3596111703767
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8663712724619,
+          -27.2604925794405
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7186651369491,
+          -27.1885830134672
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6972866173354,
+          -27.2818710990542
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7575351726103,
+          -27.367385177509
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6039985317484,
+          -27.2060745295147
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5573544889549,
+          -27.3557241668106
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4893319265476,
+          -27.3634981739428
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4271398694896,
+          -27.2702100883558
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3979873427437,
+          -27.1594304867212
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.252224709014,
+          -27.1944135188164
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1822586448237,
+          -27.3596111703767
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2405636983156,
+          -27.4373512416992
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3979873427437,
+          -27.3498936614614
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.467953406934,
+          -27.3926507006888
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5029364390291,
+          -27.5423003379846
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3999308445268,
+          -27.4762212773605
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.530145463992,
+          -27.6589104449684
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3221907732042,
+          -27.6589104449684
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2774902321938,
+          -27.6317014200055
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3124732642889,
+          -27.8999046660682
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2580552143632,
+          -27.7677465448199
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0345525093109,
+          -27.244944565176
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0578745307077,
+          -27.3246281382816
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1667106305592,
+          -27.4645602666621
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2152981751358,
+          -27.5131478112387
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.191976153739,
+          -27.5617353558152
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1511626162947,
+          -27.6103229003918
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0637050360569,
+          -27.6006053914765
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1803151430406,
+          -27.6938934770635
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.129784096681,
+          -27.709441491328
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0637050360569,
+          -27.7347070145078
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.129784096681,
+          -27.7774640537352
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9937389718666,
+          -27.7308200109417
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9237729076763,
+          -27.6977804806297
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8440893345708,
+          -27.6122664021749
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8907333773643,
+          -27.5189783165879
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8887898755812,
+          -27.4431817470484
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8382588292216,
+          -27.2896451061864
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7760667721636,
+          -27.3634981739428
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6750046794443,
+          -27.4179162238686
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5992081099048,
+          -27.5034303023234
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7371967365023,
+          -27.5306393272862
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5719990849419,
+          -27.3926507006888
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4573324797412,
+          -27.3809896899904
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4068014333816,
+          -27.4062552131702
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2921348281809,
+          -27.3965377042549
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5331290492807,
+          -27.5481308433338
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3757054048526,
+          -27.6239274128733
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2824173192656,
+          -27.6433624307039
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4281799529953,
+          -27.7055544877619
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4942590136194,
+          -27.6530799396192
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6575131633967,
+          -27.6705714556668
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6244736330846,
+          -27.7172154984603
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5370160528468,
+          -27.7327635127248
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4456714690429,
+          -27.8221645947457
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2979653335301,
+          -27.8532606232747
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2260557675567,
+          -27.8921306589359
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2532647925196,
+          -27.9096221749835
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4165189422969,
+          -27.9368311999464
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2571517960858,
+          -27.9893057480891
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2999088353131,
+          -28.1272943746866
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6711176758782,
+          -28.0573283104963
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8091063024756,
+          -27.7852380608675
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9023943880626,
+          -27.8260515983118
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9179424023271,
+          -27.9465487088617
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0403830146601,
+          -27.9115656767666
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1220100895488,
+          -27.9057351714174
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.974303954036,
+          -27.9912492498722
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0773095485383,
+          -28.0553848087132
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9159989005441,
+          -28.1059158550729
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7818972775127,
+          -28.1136898622051
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1463721944511,
+          -27.3557241668106
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1152761659221,
+          -27.4354077399162
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1522026998003,
+          -27.5073173058895
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0977846498746,
+          -27.5908878825612
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.018101076769,
+          -27.5811703736459
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8082028841982,
+          -27.6355884235716
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6663272540346,
+          -27.5733963665136
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.77127635032,
+          -27.709441491328
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9228694893989,
+          -27.7249895055925
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9986660589384,
+          -27.7619160394707
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0569711124303,
+          -27.6919499752805
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0977846498746,
+          -27.8610346304069
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0239315821182,
+          -27.9523792142109
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1560897033665,
+          -28.1039723532898
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0200445785521,
+          -28.0748198265439
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8509599234256,
+          -28.049554303364
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8043158806321,
+          -27.9523792142109
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.833468407378,
+          -27.8241080965287
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6643837522515,
+          -27.769690046603
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5905306844951,
+          -27.7774640537352
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4505985561146,
+          -27.676401961016
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6430052326379,
+          -27.9076786732004
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5322256310033,
+          -27.9212831856819
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1726778011366,
+          -27.8746391428884
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.184338811835,
+          -28.0651023176285
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4020110115381,
+          -28.1272943746866
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1969032408108,
+          -28.2769440119824
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0414230981658,
+          -28.1875429299615
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9384175036634,
+          -28.1545033996494
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1949597390277,
+          -28.449915670675
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0433665999488,
+          -28.4324241546274
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8839994537377,
+          -28.3469100761727
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7654458449708,
+          -28.3313620619082
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6838187700822,
+          -28.2672265030671
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5302821292202,
+          -28.2128084531413
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1862823136181,
+          -28.3216445529929
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9433445907352,
+          -28.51016422595
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6352312255056,
+          -28.3721755993525
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8529034252086,
+          -28.3974411225323
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0239315821182,
+          -28.4946162116855
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1522026998003,
+          -28.541260254479
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.20273374616,
+          -28.5898477990555
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1813552265463,
+          -28.6831358846426
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0764061302609,
+          -28.6539833578966
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9753440375416,
+          -28.5665257776588
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8976039662191,
+          -28.5354297491298
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8451294180764,
+          -28.4751811938548
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7071407914789,
+          -28.51016422595
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6896492754314,
+          -28.5470907598282
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5749826702306,
+          -28.6423223471982
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7479543289232,
+          -28.665644368595
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7848808628014,
+          -28.5976218061878
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9345305000973,
+          -28.7142319131716
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7129712968281,
+          -28.7394974363514
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.615796207675,
+          -28.788084980928
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4778075810775,
+          -28.7686499630973
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2834574027712,
+          -28.8152940058908
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0968812315972,
+          -28.7919719844941
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0735592102004,
+          -28.974661152102
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2815139009882,
+          -28.8580510451182
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1862823136181,
+          -29.034909707377
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.306779424168,
+          -29.0232486966786
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4097850186703,
+          -28.9902091663665
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5574911541831,
+          -28.9416216217899
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5555476524,
+          -28.8638815504674
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7032537879128,
+          -28.8872035718642
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7984853752829,
+          -28.8172375076739
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8995474680022,
+          -28.8541640415521
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0064400660706,
+          -28.7919719844941
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1813552265463,
+          -28.7803109737957
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1891292336785,
+          -28.8774860629489
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1308241801866,
+          -28.9319041128746
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0122705714198,
+          -28.9668871449697
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8470729198595,
+          -28.9649436431867
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7071407914789,
+          -28.9940961699326
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7732198521031,
+          -29.0485142198584
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8665079376901,
+          -29.0698927394721
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1658072122818,
+          -29.0154746895463
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2979653335301,
+          -29.0465707180753
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3115698460115,
+          -29.2467514017308
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2124512550753,
+          -29.1709548321914
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1055586570068,
+          -29.1670678286252
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0725191266948,
+          -29.1029322697842
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9442480090126,
+          -29.128197792964
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8801124501715,
+          -29.1554068179269
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7440673253571,
+          -29.1631808250591
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6371747272887,
+          -29.1573503197099
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5263951256541,
+          -29.1670678286252
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3495364633954,
+          -29.2234293803341
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1940563207503,
+          -29.1709548321914
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2746433121333,
+          -29.3847400283283
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2377167782551,
+          -29.3264349748364
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1055586570068,
+          -29.3303219784025
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0589146142133,
+          -29.2992259498735
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0336490910335,
+          -29.2137118714187
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9928355535892,
+          -29.2739604266937
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8859429555207,
+          -29.2312033874663
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8762254466054,
+          -29.2875649391751
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6896492754314,
+          -29.2700734231276
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.524451623871,
+          -29.2564689106461
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5089036096065,
+          -29.3011694516566
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6818752682991,
+          -29.3361524837517
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7790503574523,
+          -29.3536439997993
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8742819448223,
+          -29.3886270318944
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.957852521494,
+          -29.3944575372436
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9792310411077,
+          -29.4527625907355
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1055586570068,
+          -29.3827965265452
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0938976463084,
+          -29.4663671032169
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1385981873189,
+          -29.5382766691902
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0044965642876,
+          -29.5110676442274
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9695135321924,
+          -29.499406633529
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9481350125787,
+          -29.6082427333805
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8548469269917,
+          -29.5829772102007
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8120898877643,
+          -29.4469320853863
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7790503574523,
+          -29.4177795586403
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6818752682991,
+          -29.4547060925185
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7343498164418,
+          -29.5479941781056
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5944176880613,
+          -29.5460506763225
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.553604150617,
+          -29.5460506763225
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5147341149557,
+          -29.4411015800371
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5089036096065,
+          -29.4177795586403
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4972425989081,
+          -29.375022519413
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3903500008397,
+          -29.375022519413
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3184404348663,
+          -29.3827965265452
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2601353813745,
+          -29.3925140354605
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3126099295172,
+          -29.4527625907355
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3611974740937,
+          -29.4935761281798
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4195025275856,
+          -29.4760846121322
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4875250899928,
+          -29.5091241424443
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1124292458617,
+          -29.376966021196
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8792090318941,
+          -29.3847400283283
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9919321353118,
+          -29.4935761281798
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1338077654754,
+          -29.4469320853863
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2057173314487,
+          -29.4605365978677
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0852202208988,
+          -29.5343896656241
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1823953100519,
+          -29.5246721567088
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2562483778083,
+          -29.5363331674072
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2173783421471,
+          -29.5946382208991
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1610167904382,
+          -29.5965817226821
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.092994228031,
+          -29.5829772102007
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8986440497248,
+          -29.5849207119838
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8247909819684,
+          -29.6315647547773
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9277965764707,
+          -29.6121297369466
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0016496442271,
+          -29.6412822636926
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.061898199502,
+          -29.6801522993538
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1260337583431,
+          -29.685982804703
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1765648047027,
+          -29.654886776174
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.24458736711,
+          -29.7054178225337
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1726778011366,
+          -29.7404008546288
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1687907975705,
+          -29.8123104206021
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3339884491308,
+          -29.7015308189675
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4078415168872,
+          -29.6276777512111
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3767454883582,
+          -29.5946382208991
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4175590258026,
+          -29.5577116870209
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1930162372447,
+          -29.6121297369466
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2707563085672,
+          -29.7442878581949
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1949597390277,
+          -29.7812143920731
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8742819448223,
+          -29.8006494099037
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6993667843467,
+          -29.6412822636926
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7673893467539,
+          -29.9075420079722
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7226888057434,
+          -29.9347510329351
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7246323075265,
+          -29.961960057898
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6313442219395,
+          -29.9600165561149
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3242709402155,
+          -30.0183216096068
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4719770757283,
+          -29.6918133100522
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2815139009882,
+          -29.8647849687448
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1882258154011,
+          -29.8472934526973
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1921128189673,
+          -29.9133725133214
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.1143727476447,
+          -29.9425250400673
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0171976584916,
+          -29.9425250400673
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0677287048512,
+          -30.0008300935592
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.0327456727561,
+          -30.0882876737971
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.2232088474963,
+          -30.0338696238713
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3281579437817,
+          -30.1232707058922
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.740180321791,
+          -30.0960616809293
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0608581159964,
+          -30.1329882148075
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9675700304094,
+          -30.1252142076753
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.8092429677038,
+          -29.3633615087146
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5818532590855,
+          -29.4449885836032
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7800904409579,
+          -29.5130111460104
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7917514516563,
+          -29.5771467048515
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7800904409579,
+          -29.654886776174
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5760227537363,
+          -29.6451692672587
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4088816003929,
+          -29.6335082565603
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2048139131713,
+          -29.6820958011369
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1134693293673,
+          -29.4877456228306
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0609947812246,
+          -29.530502662058
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0668252865738,
+          -29.5868642137668
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5313222127259,
+          -29.8317454384328
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7917514516563,
+          -29.8842199865755
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4030510950437,
+          -29.8220279295174
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2670059702293,
+          -29.89976800084
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9307801617594,
+          -29.2137118714187
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9385541688917,
+          -29.3730790176299
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.8510965886538,
+          -29.3730790176299
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9268931581933,
+          -29.4585930960847
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.9055146385796,
+          -29.5596551888039
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0201812437803,
+          -29.7481748617611
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0493337705262,
+          -29.8064799152529
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1251303400657,
+          -29.9541860507657
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1406783543302,
+          -30.0047170971254
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2106444185205,
+          -30.1699147486857
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.732542979887,
+          -29.3342089819687
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5099436931121,
+          -30.1407622219398
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.5099436931121,
+          -30.2573723289235
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.2436839488325,
+          -30.2476548200082
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.9258530746876,
+          -31.1125131134712
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.092994228031,
+          -31.28937177573
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4757274140662,
+          -33.6798789688973
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3804958266961,
+          -33.5243988262523
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.378552324913,
+          -32.5701394507684
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0909140610197,
+          -32.2358571440816
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3979873427436,
+          -32.0298459550769
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8304848220893,
+          -31.8724223106488
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8265978185232,
+          -31.8452132856859
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5078635261008,
+          -31.7907952357602
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3484963798897,
+          -31.7674732143634
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6039985317483,
+          -31.724716175136
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6836821048539,
+          -31.5634055271418
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3882698338283,
+          -31.5808970431894
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1064620752842,
+          -31.4429084165919
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6827786865765,
+          -31.3923773702323
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6264171348677,
+          -31.5886710503216
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4612194833073,
+          -31.4390214130258
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1949597390277,
+          -31.4254169005444
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9831180446738,
+          -31.3729423524017
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0550276106472,
+          -30.9939595047044
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1172196677052,
+          -30.7102082443772
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9947790553722,
+          -30.7549087853877
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.8198638948965,
+          -30.8618013834561
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5089036096065,
+          -30.9181629351649
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.4078415168872,
+          -30.6829992194143
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5827566773629,
+          -30.6208071623563
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7557283360555,
+          -30.6072026498749
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.6119092041088,
+          -30.4633835179282
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.7479543289232,
+          -30.395360955521
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5924741862782,
+          -30.3603779234259
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3815359102017,
+          -30.1951802718656
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3698748995034,
+          -29.9775080721625
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4320669565614,
+          -29.7267963421474
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5156375332331,
+          -29.7190223350152
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5234115403653,
+          -29.5324461638411
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6555696616136,
+          -29.4488755871694
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6963831990579,
+          -29.5965817226822
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.789671284645,
+          -29.6665477868724
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9004508862795,
+          -30.0397001292205
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9529254344222,
+          -29.7229093385813
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9509819326392,
+          -29.6568302779571
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1705976341253,
+          -29.7112483278829
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3727218195638,
+          -29.808423417036
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2463942036647,
+          -29.6412822636926
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3532868017332,
+          -29.6043557298144
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.131727598464,
+          -29.4158360568573
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0228914986125,
+          -29.4741411103492
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0306655057448,
+          -29.4100055515081
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9723604522529,
+          -29.3400394873179
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9626429433375,
+          -29.4449885836033
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0889705592366,
+          -29.3342089819687
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3435692928179,
+          -29.3322654801856
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4320669565614,
+          -29.3011694516566
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5817165938572,
+          -29.2700734231276
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.791614786428,
+          -29.2350903910325
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5856035974233,
+          -29.0912712590858
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.3465528781066,
+          -28.9824351592343
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5175810350161,
+          -28.8269550165893
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6963831990579,
+          -28.6889663899918
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.853806843486,
+          -28.7336669310023
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9859649647343,
+          -28.7686499630974
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9976259754327,
+          -28.879429564732
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0714790431891,
+          -29.0271357002448
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9548689362053,
+          -29.1068192733503
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1647671287761,
+          -29.1690113304084
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2114111715696,
+          -29.0834972519536
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2172416769188,
+          -28.7900284827111
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0948010645858,
+          -28.7472714434837
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3843828302622,
+          -28.8036329951925
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0909140610197,
+          -28.6306613364999
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2561117125801,
+          -28.3644015922203
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.098688068152,
+          -28.3916106171832
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9898519683004,
+          -28.5218252366484
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.9490384308561,
+          -28.6228873293677
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8732418613167,
+          -28.6267743329338
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8576938470522,
+          -28.5568082687435
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.822710814957,
+          -28.4518591724581
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8013322953433,
+          -28.3022095351623
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6944396972749,
+          -28.3993846243155
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7527447507668,
+          -28.5684692794419
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5992081099048,
+          -28.5762432865742
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5719990849419,
+          -28.4985032152517
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4106884369477,
+          -28.5315427455637
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.51369403145,
+          -28.6267743329338
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.4087449351646,
+          -28.263339499501
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4796144176323,
+          -28.2030909442261
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5126539479444,
+          -28.3022095351623
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.7975932017505,
+          -28.6977984217592
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.4396603344404,
+          -28.6811932887396
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.3603246989026,
+          -28.8952150032137
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.0558972602111,
+          -28.7586839094975
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.1407679400887,
+          -29.0538862742893
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6912766833908,
+          -29.492456868213
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2184450246877,
+          -29.2791493530086
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0709073266714,
+          -29.3502518580768
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8398241851999,
+          -29.0676194004309
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.6691781730364,
+          -29.2222673489541
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5856327295814,
+          -29.522675432867
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5856327295814,
+          -29.6346618783493
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.7740543680119,
+          -29.588445250055
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8060504952926,
+          -29.7004316955373
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8593773740937,
+          -29.5315632460005
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1882264600338,
+          -29.6275516278425
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2042245236741,
+          -29.6950990076572
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.2308879630747,
+          -29.4640158661858
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4655262297995,
+          -29.5546715601476
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6770561823772,
+          -29.6897663197771
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4665360335922,
+          -29.4657934288125
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4416501568184,
+          -29.5724471864147
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4398725941917,
+          -29.6133311268288
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5003097234996,
+          -29.9937295289433
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.5749673538211,
+          -30.1643755411069
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.0904605155651,
+          -30.3279113027636
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8807081256141,
+          -30.3403542411505
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.4896443477394,
+          -30.5038900028072
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.3286539075433,
+          -30.3332439906437
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9020388771346,
+          -30.8060756493468
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.1181337587584,
+          -30.8665127786547
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.8771530003607,
+          -31.398004004039
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1046810165787,
+          -31.3286790615975
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1526752074997,
+          -31.8619478496085
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.4571088440353,
+          -30.3769161544064
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5298559326349,
+          -30.8866855274985
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6670566201313,
+          -30.9716470896805
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.6820185447101,
+          -28.9097125870921
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.9161877770528,
+          -30.2425779168518
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.5327654566171,
+          -30.5439486462875
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.3130823957207,
+          -30.3016710925599
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.2628087134165,
+          -30.8730305082859
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9149143136188,
+          -27.4804252664636
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.1129169916135,
+          -32.0445709246925
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.0389961681145,
+          -32.0147313262158
+        ]
+      },
+      "properties": {
+        "AREA": "0.000",
+        "PERIMETER": "0.000",
+        "APOPULATED": 0,
+        "APOPULAT_1": 0,
+        "PPPTTYPE": 0,
+        "PPPTFLAG": 0
+      }
+    }
+  ]
+}
